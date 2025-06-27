@@ -1,0 +1,4 @@
+2025-06-27 23:32:06,537 [INFO] CaseStudy6_DataPreprocessor - ===== SESSION 'DataPreprocessor' STARTED =====
+2025-06-27 23:32:06,538 [INFO] CaseStudy6_DataPreprocessor - Log file: logs\DataPreprocessor_2025-06-27_233206.log
+2025-06-27 23:32:06,539 [INFO] CaseStudy6_DataPreprocessor - DataPreprocessor initialized
+2025-06-27 23:32:06,539 [INFO] CaseStudy6_DataPreprocessor - Loading data from data.csv
