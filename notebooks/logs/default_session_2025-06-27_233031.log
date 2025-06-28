@@ -1,3 +1,0 @@
-2025-06-27 23:30:31,087 [INFO] CaseStudy6_default_session - ===== SESSION 'default_session' STARTED =====
-2025-06-27 23:30:31,087 [INFO] CaseStudy6_default_session - Log file: logs\default_session_2025-06-27_233031.log
-2025-06-27 23:30:31,087 [ERROR] CaseStudy6_default_session - Failed to import utility modules: No module named 'utility.data_preprocess'
